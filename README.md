@@ -1,4 +1,4 @@
-# Olá, eu sou [SEU NOME]! 👋
+# Olá, eu sou Kauã Vieira Matte (url)](url)! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário La Salle (Unilasalle)**, atualmente no **2º semestre**.
 
@@ -18,12 +18,5 @@ Concluí o **Ensino Médio** e também o curso **Técnico em TI pela QI Faculdad
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Sobre mim
 
-Tenho interesse em **programação, desenvolvimento de software e tecnologia**, buscando sempre aprender novas ferramentas e transformar meus conhecimentos em projetos.
-
-Atualmente, estou construindo meu portfólio e desenvolvendo minhas habilidades através da faculdade, projetos pessoais e estudos.
-
-### 📫 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEUos _LINKEDIN)
