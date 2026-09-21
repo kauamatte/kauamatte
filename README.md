@@ -1,4 +1,4 @@
-# Olá, eu sou Kauã Vieira Matte (url)](url)! 👋
+# Olá, eu sou Kauã Vieira Matte👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário La Salle (Unilasalle)**, atualmente no **2º semestre**.
 
