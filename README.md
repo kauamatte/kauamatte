@@ -19,4 +19,3 @@ Concluí o **Ensino Médio** e também o curso **Técnico em TI pela QI Faculdad
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEUos _LINKEDIN)
